@@ -1,0 +1,7 @@
+﻿sc,s,s,s,
+int,String,String,String,
+sn,url,miniGameUrl,skinUrl,
+装备模版id,皮肤链接龙骨入口,小游戏皮肤链接spine入口,皮肤链接spine,
+49990024,https://qiniustatic.wodidashi.com/pet/outlook1/catIron2.png,https://qiniustatic.wodidashi.com/pet/output2/catIron2.png,https://qiniustatic.wodidashi.com/pet/output4/catIron.png,
+41590024,https://qiniustatic.wodidashi.com/pet/outlook1/catIron2.png,https://qiniustatic.wodidashi.com/pet/output2/catIron2.png,https://qiniustatic.wodidashi.com/pet/output4/catIron.png,
+43090045,https://qiniustatic.wodidashi.com/pet/outlook1/catfeng.png,https://qiniustatic.wodidashi.com/pet/output2/catfeng.png,https://qiniustatic.wodidashi.com/pet/output4/catfeng.png,
